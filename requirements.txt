@@ -1,8 +1,7 @@
+streamlit==1.32.2
 tensorflow==2.20.0
+protobuf<4
 numpy
 pandas
-matplotlib
-tensorboard
 scikit-learn
-
-streamlit
+matplotlib
